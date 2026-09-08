@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+secrets/
+.DS_Store
+# credentials / personal / local
+*.cookie
+cookies.txt
+*.session
+session.json
+auth.json
+credentials.json
+*.token
+secrets.json
+out/
+*.log
